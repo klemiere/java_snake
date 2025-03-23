@@ -1,9 +1,0 @@
-GUI.GameFrame:
-    -Display window
-    -Game display
-
-
-Game Logic:
-    -game grid
-    -snake
-    -apples
